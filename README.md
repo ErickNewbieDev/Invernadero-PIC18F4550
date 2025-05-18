@@ -4,13 +4,13 @@ El sistema cuenta con un par de botones los cuales funcionan uno para hacerle sa
 Cuando el sistema detecta una temperatura sobre el promedio, además de avisarlo en el LCD también es acompañado por un LED el cual se ilumina y solo se apagará cuando se regrese a la temperatura optima.
 
 El programa fue desarrollado en MikroC PRO For PIC v.7.6.0. Se usaron las librerias:
-•	Button
-•	Conversions
-•	Lcd Ya incluidas con la instalacion de MikroC.
+- Button
+- Conversions
+- Lcd Ya incluidas con la instalacion de MikroC.
 Para el armado del circuito unicamente ser requieren los siguientes materiales:
-•	1 PIC18F4550 / PIC18F4455
-•	1 LCD 16 pines
-•	2 Push button
-•	1 LED
-• 1 potenciometro 10 kOhms / 1 Sensor de temperatura LM35
-•	1 Dip Switch (De al menos 4 interruptores)
+- 1 PIC18F4550 / PIC18F4455
+- 1 LCD 16 pines
+- 2 Push button
+- 1 LED
+- 1 potenciometro 10 kOhms / 1 Sensor de temperatura LM35
+- 1 Dip Switch (De al menos 4 interruptores)
