@@ -7,6 +7,7 @@ El programa fue desarrollado en MikroC PRO For PIC v.7.6.0. Se usaron las librer
 - Button
 - Conversions
 - Lcd Ya incluidas con la instalacion de MikroC.
+
 Para el armado del circuito unicamente ser requieren los siguientes materiales:
 - 1 PIC18F4550 / PIC18F4455
 - 1 LCD 16 pines
